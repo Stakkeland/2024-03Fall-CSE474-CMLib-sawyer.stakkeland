@@ -1,0 +1,10 @@
+Section 2
+Definitions and Acronyms
+
+'Call of Duty' | A first person shooter video game that has annual releases
+Legacy title | A Call of Duty title that is not the current release
+8's Lobby | A private lobby that requires users to be invited to, this allows users to play competitive
+            settings on legacy titles
+Discord Bot | A application that can be added to a users either private or public server discord server.
+              These bots can do anything and can be added to servers to add functionality that otherwise
+             could not be had on discord
