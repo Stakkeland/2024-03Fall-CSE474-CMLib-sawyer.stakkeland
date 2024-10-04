@@ -1,3 +1,5 @@
 SECTION | LINK
 ---------------
-Title Page | 
+Title Page | https://github.com/Stakkeland/2024-03Fall-CSE474-CMLib-sawyer.stakkeland/blob/main/SQAP/Title%20Page.docx
+
+Revision History | 
