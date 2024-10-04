@@ -1,0 +1,4 @@
+Date       | Updates                                         | Version | Author
+
+2024/10/02 | -inital draft -title page - revision page - TOC | V0.0.1 | Sawyer Stakkeland
+2024/10/03 | -Add Sections                                   | V0.1   | Sawyer Stakkeland
