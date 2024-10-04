@@ -1,0 +1,15 @@
+Section 1
+Purpose and Scope
+
+Purpose
+This software works as a discord bot that can be added to any discord server. The purpose is to allow 
+users to click a join button on a certain 'Call of Duty' title. This will then add the user to a pool of
+other users. Once 8 users are in the pool, the players are added to a private voice lobby, where teams
+and maps are assigned to help facilitate creating private competitive lobbies on legacy titles. This is
+due to the fact that legacy titles do not contain competitive playlists in matchmaking.
+
+Scope
+The bot will be expected to be added to a few discord servers that contain a large plethora of 'Call of
+Duty' competitive fans. The known issues that may arise are moving users to lobbies and ensuring the 
+bot remains stable with large quantities of people clicking join at the same time.
+
